@@ -1,0 +1,4 @@
+GET http://local.tp6.com/api/v1/hello
+Accept: application/json
+
+###
